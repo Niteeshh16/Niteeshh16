@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">Learning, building, and innovating in Industrial Automation and Modern Software Development.</h3>
+<h3 align="center">Learning, building, and innovating in Modern Software Development and Industrial Automation.</h3>
 
 ---
 
@@ -13,7 +13,7 @@
 - 🏭 **Industrial Systems:** Working on SCADA, Industrial Automation, and **AVEVA** Industrial Software Solutions.
 - 💻 **Backend Engineering:** Architecting robust, high-performance systems with **Java Spring Boot**.
 - 🌐 **Web Technologies:** Crafting dynamic and responsive applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
-- ☁️ **The Infrastructure:** Navigating the terminal and scaling horizons—deeply passionate about **Linux ecosystems** and modern **Cloud Architectures**.
+- ☁️ **The Infrastructure:** Interested in**Linux ecosystems** and modern **Cloud Architectures**.
 
 ---
 
