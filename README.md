@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on projects involving **Industrial Automation** and **Full-Stack Development**.
-- 🏭 Experienced with **AVEVA** solutions for industrial software.
+- 🏭 **AVEVA** solutions for industrial software.
 - 💻 Building robust backend systems with **Java Spring Boot**.
 - 🌐 Developing dynamic web applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
 - 🐧 Proficient in **Linux** environments and system administration.
