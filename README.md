@@ -1,15 +1,16 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Niteesh!+%F0%9F%91%8B;Industrial+Automation;Full-Stack+Development;Linux+%26+Cloud+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Niteesh!+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </h1>
+
+<h3 align="center">Learning, building, and innovating in Industrial Automation and Modern Software Development.</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 **Current Focus:** Engineering solutions that merge **Industrial Automation** with modern **Full-Stack Development**.
-- 🏭 **Industrial Software:** Recently started a new role working with **AVEVA System Platform** & **AVEVA Historian**, actively building my skills in the domain.
+- 🏭 **Industrial Systems:** Working on SCADA, Industrial Automation, and **AVEVA** Industrial Software Solutions.
 - 💻 **Backend Engineering:** Architecting robust, high-performance systems with **Java Spring Boot**.
 - 🌐 **Web Technologies:** Crafting dynamic and responsive applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
 - ☁️ **The Infrastructure:** Navigating the terminal and scaling horizons—deeply passionate about **Linux ecosystems** and modern **Cloud Architectures**.
