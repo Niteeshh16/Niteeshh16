@@ -12,7 +12,7 @@
 
 - 🏭 **Industrial Systems:** Working on SCADA, Industrial Automation, and **AVEVA** Industrial Software Solutions.
 - 💻 **Backend Engineering:** Architecting robust, high-performance systems with **Java Spring Boot**.
-- 🌐 **Web Technologies:** Crafting dynamic and responsive applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
+- 🌐 **Web Technologies:** Crafting dynamic and responsive applications using the **MERN Stack**.
 - ☁️ **The Infrastructure:** Interested in **Linux** and modern **Cloud Architectures**.
 
 ---
