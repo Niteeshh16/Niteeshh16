@@ -46,12 +46,11 @@
 ### 📫 Let's Connect!
 
 <div align="center">
-  <!-- Replace YOUR_LINKEDIN with your actual LinkedIn username -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/niteesh-hegde-140289248" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Replace YOUR_EMAIL@example.com with your actual email address -->
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  
+  <a href="niteeshhegde343@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
