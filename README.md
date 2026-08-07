@@ -1,65 +1,56 @@
-<h1 align="center">Hi there, I'm Niteesh! 👋</h1>
-
-<h3 align="center">Bridging the gap between Industrial Automation and Modern Web Technologies 🏭 💻</h3>
-
-<p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Niteesh!+%F0%9F%91%8B;Industrial+Automation;Full-Stack+Development;Linux+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- 🔭 I’m currently working on projects involving **Industrial Automation** and **Full-Stack Development**.
-- 🏭 **AVEVA** solutions for industrial software.
-- 💻 Building robust backend systems with **Java Spring Boot**.
-- 🌐 Developing dynamic web applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
-- 🐧 Proficient in **Linux** environments and system administration.
-- 🌱 Always learning and exploring the intersection of OT (Operational Technology) and IT.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Industrial Automation & OS:**
-<p align="left">
-  <img src="https://img.shields.io/badge/AVEVA-005E82?style=for-the-badge&logo=aveva&logoColor=white" alt="AVEVA" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-**Backend & Database:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-**Frontend:**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</p>
+- 🔭 **Current Focus:** Engineering solutions that merge **Industrial Automation** with modern **Full-Stack Development**.
+- 🏭 **Industrial Software:** Recently started a new role working with **AVEVA System Platform** & **AVEVA Historian**, actively building my skills in the domain.
+- 💻 **Backend Engineering:** Architecting robust, high-performance systems with **Java Spring Boot**.
+- 🌐 **Web Technologies:** Crafting dynamic and responsive applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
+- ☁️ **The Infrastructure:** Navigating the terminal and scaling horizons—deeply passionate about **Linux ecosystems** and modern **Cloud Architectures**.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Arsenal & Technologies
 
-<p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  
+**Industrial Automation**<br>
+<img src="https://img.shields.io/badge/AVEVA_System_Platform-005E82?style=for-the-badge" alt="AVEVA System Platform" />
+<img src="https://img.shields.io/badge/AVEVA_Historian-005E82?style=for-the-badge" alt="AVEVA Historian" />
+
+<br><br>
+**Backend & Database**<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+<br><br>
+**Frontend**<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+
+</div>
 
 ---
 
-### 📫 Connect with me
+### 📫 Let's Connect!
 
-<p align="left">
-<!-- Replace YOUR_LINKEDIN with your actual LinkedIn username -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<!-- Replace YOUR_EMAIL@example.com with your actual email address -->
-<a href="mailto:YOUR_EMAIL@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<div align="center">
+  <!-- Replace YOUR_LINKEDIN with your actual LinkedIn username -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Replace YOUR_EMAIL@example.com with your actual email address -->
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
