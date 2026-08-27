@@ -10,20 +10,14 @@
 
 ### 🚀 About Me
 
-- 🏭 **Industrial Systems:** Working on SCADA, Industrial Automation, and **AVEVA** Industrial Software Solutions.
 - 💻 **Backend Engineering:** Architecting robust, high-performance systems with **Java Spring Boot**.
 - 🌐 **Web Technologies:** Crafting dynamic and responsive applications using the **MERN Stack**.
 - ☁️ **The Infrastructure:** Interested in **Linux** and modern **Cloud Architectures**.
+- 🏭 **Industrial Systems:** Working on SCADA, Industrial Automation, and **AVEVA** Industrial Software Solutions.
 
 ---
 
 ### 🛠️ Arsenal & Technologies
-
-<div align="center">
-  
-**Industrial Automation**<br>
-<img src="https://img.shields.io/badge/AVEVA_System_Platform-005E82?style=for-the-badge" alt="AVEVA System Platform" />
-<img src="https://img.shields.io/badge/AVEVA_Historian-005E82?style=for-the-badge" alt="AVEVA Historian" />
 
 <br><br>
 **Backend & Database**<br>
@@ -40,6 +34,14 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 
 </div>
+
+
+
+<div align="center">
+  
+**Industrial Automation**<br>
+<img src="https://img.shields.io/badge/AVEVA_System_Platform-005E82?style=for-the-badge" alt="AVEVA System Platform" />
+<img src="https://img.shields.io/badge/AVEVA_Historian-005E82?style=for-the-badge" alt="AVEVA Historian" />
 
 ---
 
