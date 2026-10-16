@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-- 💻 **Backend Engineering:** Architecting robust, high-performance systems with **Java Spring Boot**.
-- 🌐 **Web Technologies:** Crafting dynamic and responsive applications using the **MERN Stack**.
+- 💻 **Backend Engineering:** Architecting robust, high-performance systems.
+- 🌐 **Web Technologies:** Crafting dynamic and responsive applications.
 - ☁️ **The Infrastructure:** Interested in **Linux** and modern **Cloud Architectures**.
-- 🏭 **Industrial Systems:** Working on SCADA, Industrial Automation, and **AVEVA** Industrial Software Solutions.
+
 
 ---
 
