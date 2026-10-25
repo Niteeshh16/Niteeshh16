@@ -35,13 +35,6 @@
 
 </div>
 
-
-
-  
-**Industrial Automation**<br>
-<img src="https://img.shields.io/badge/AVEVA_System_Platform-005E82?style=for-the-badge" alt="AVEVA System Platform" />
-<img src="https://img.shields.io/badge/AVEVA_Historian-005E82?style=for-the-badge" alt="AVEVA Historian" />
-
 ---
 
 ### 📫 Let's Connect!
